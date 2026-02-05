@@ -3,7 +3,7 @@ BC250 BIOS custom boot logo theme — AMI OEM tool “ChangeLogo.exe” included
 
 # AMD BC-250 Custom AMI BIOS Logo
 
-The ROM file still contains the unlocked chipset menu of P3.00, it just comes with the custom boot logo I made.
+The ROM file still contains the **unlocked chipset menu of P3.00**, it just comes with the custom boot logo I made.
 
 ![BC250 BIOS Logo](amd-bc250.png)
 
@@ -13,9 +13,17 @@ VirusTotal: https://www.virustotal.com/gui/file/aacf50e75f8c954047e93986315fc25c
 
 ![BIOS Logo Tool](AMI's-Change-Logo-Tool.png)
 
+# How to use AMI Change Logo Tool 
+
+AMI Change Logo Tool should work on any American Megatrends-based BIOS, like ASUS, ASRock, Gigabyte, MSI, and others.
+
+1.	Click **Load Image** and select the BIOS .rom file you want to modify.
+2.	Click **Browse** under Save Image and choose a BMP image you want to use as the logo.
+3.	Click **Replace Logo** — that’s it!
+
 From my experience, the best image logo format is:
 
-BMP File Format
+# BMP File Format Recommendations
 
 24-bit bit depth
 
