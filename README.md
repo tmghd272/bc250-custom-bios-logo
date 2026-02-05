@@ -21,9 +21,11 @@ AMI Change Logo Tool should work on any American Megatrends-based BIOS, like ASU
 2.	Click **Browse** under Save Image and choose a BMP image you want to use as the logo.
 3.	Click **Replace Logo** — that’s it!
 
+# Logo Format Recommendations
+
 From my experience, the best image logo format is:
 
-# BMP File Format Recommendations
+BMP File Format
 
 24-bit bit depth
 
