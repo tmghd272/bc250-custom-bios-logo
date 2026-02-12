@@ -7,7 +7,7 @@ The ROM file still contains the **unlocked chipset menu of P3.00**, it just come
 
 ![BC250 BIOS Logo](amd-bc250.png)
 
-You can make your own custom logo as well using AMI's software "[CustomLogo.exe](CustomLogo.exe)".
+You can make your own custom logo as well using AMI's software "[ChangeLogo.exe](ChangeLogo.exe)".
 
 VirusTotal: https://www.virustotal.com/gui/file/aacf50e75f8c954047e93986315fc25cfa4619697c2f32f04889646c59fcdbd3
 
