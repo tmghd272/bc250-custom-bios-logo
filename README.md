@@ -33,7 +33,7 @@ You can make your own custom logo as well using AMI's software "[ChangeLogo.exe]
 
 VirusTotal: https://www.virustotal.com/gui/file/aacf50e75f8c954047e93986315fc25cfa4619697c2f32f04889646c59fcdbd3
 
-<img src="AMI's-Change-Logo-Tool.png" width="400">
+<img src="AMI's-Change-Logo-Tool.png" width="550">
 
 ## How to use AMI Change Logo Tool 
 
